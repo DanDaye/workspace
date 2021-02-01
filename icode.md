@@ -14,6 +14,10 @@ CD（持续部署）
 
 **持续部署**是指能够`自动化、多批次、可控`地实现软件的部署，控制故障的影响范围或方便轻松解决故障问题
 
+​	持续部署包括的部署或测试部署方法：
+
+​	· 
+
 **常见分支开发模式-主干开发**
 
 ![image-20210201194720912](/Users/gertieliang/Library/Application Support/typora-user-images/image-20210201194720912.png)
