@@ -8,7 +8,7 @@
 
 **常见分支开发模式-主干开发**
 
-
+![image-20210201194720912](/Users/gertieliang/Library/Application Support/typora-user-images/image-20210201194720912.png)
 
 **常用的CI/CD相关工具**
 
