@@ -102,11 +102,13 @@ Nonredundant：无冗余的代码意味可以只在一个地方修复bug和进�
 
 ![image-20210201210801234](/Users/gertieliang/Library/Application Support/typora-user-images/image-20210201210801234.png)
 
-·过长函数
+**对象函数问题**
 
-· 过长参数列表
+· 过长函数
 
-· 基本类型偏执
+· 过长参数列表：引入参数对象，以查询取代参数，移除标记参数
+
+· 基本类型偏执：表现为不愿意在小的问题域上运用对象，优化手段：以对象取代基本类型
 
 · 重复的switch
 
