@@ -71,7 +71,7 @@ CD（持续部署）
 
 ## 《代码质量与技术债》
 
-**优秀代码的特质**
+### 优秀代码的特质
 
 `CLEAN`
 
@@ -85,11 +85,11 @@ Assertive：自主的代码其行为和其所依赖的数据放在一起，不�
 
 Nonredundant：无冗余的代码意味可以只在一个地方修复bug和进行更改
 
-**圈复杂度的概念**
+### 圈复杂度的概念
 
 ![image-20210201210448656](/Users/gertieliang/Library/Application Support/typora-user-images/image-20210201210448656.png)
 
-**代码可维护行规则**
+### 代码可维护行规则
 
 1. 源代码不能有重复代码
 2. 不能使用魔数
@@ -98,7 +98,7 @@ Nonredundant：无冗余的代码意味可以只在一个地方修复bug和进�
 5. 函数的圈复杂度不能太高
 6. 函数不能太复杂
 
-**code smell识别与消除**
+### code smell识别与消除
 
 ![image-20210201210801234](/Users/gertieliang/Library/Application Support/typora-user-images/image-20210201210801234.png)
 
@@ -114,7 +114,19 @@ Nonredundant：无冗余的代码意味可以只在一个地方修复bug和进�
 
 · 循环语句
 
-**应对技术债的不同策略**
+**对象数据的问题**
+
+
+
+**对象关系的问题**
+
+
+
+**其他问题**
+
+
+
+### 应对技术债的不同策略
 
 
 
