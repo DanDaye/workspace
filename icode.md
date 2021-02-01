@@ -2,12 +2,6 @@
 
 **持续集成的概念和内容**
 
-为什么需要CI/CD
-
-![image-20210201193720816](/Users/gertieliang/Library/Application Support/typora-user-images/image-20210201193720816.png)
-
-**持续部署的概念和内容**
-
 
 
 **常见分支开发模式-主干开发**
